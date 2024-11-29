@@ -11,3 +11,5 @@
 * Choose your firebase project and the platforms you want it to support from the CLI prompt.
 * Add firebase_core package to your dependencies.
   ## You're good to go!
+  # Video for manually adding firebase to both your android and iOS apps
+  * https://youtu.be/6Vc_E20o5wE?si=ki_bKOY06jV_PtGf
